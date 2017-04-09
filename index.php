@@ -222,27 +222,27 @@
       <a href="assets/html/topics.php">
       <div class="col-lg-3 callout"> <i class="fa fa-desktop fa-3x"></i>
         <h3>Conceptual Tutorials</h3>
-        <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
+        <p>Concrete And Complete Solution.</p>
       </div></a>
 
       <a href="assets/html/mocks.php">             <!--Session se redirection karna hai ya toh login/register karwana hai -->
       <div class="col-lg-3 callout"> <i class="fa fa-gears fa-3x"></i>
         <h3>Mock Tests</h3>
-        <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
+        <p>Gear Up For The Test</p>
       </div>
     </a>
 
       <a href="assets/html/videolec.php">
       <div class="col-lg-3 callout"> <i class="fa fa fa-video-camera fa-3x"></i>
         <h3>Video Lectures</h3>
-        <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
+        <p>Learn From The Best</p>
       </div>
       </a>
 
       <a href="assets/html/interviewexperience.php">
       <div class="col-lg-3 callout"> <i class="fa fa-graduation-cap  fa-3x"></i>
         <h3>Interview Preparation</h3>
-        <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
+        <p>Prepare For the Big Games.</p>
       </div>
     </a>
 
