@@ -20,6 +20,12 @@
 
 </head>
 
+<?php
+require_once("commonmodal.php");
+ ?>
+
+
+
 <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
 <div id="navbar-main">
   <!-- Fixed navbar -->
@@ -33,7 +39,7 @@
           <li><a href="../../index.php" >Home</a></li>
           <li><a href="topics.php" >Topics</a></li>
           <li><a href="videolec.php" >Video Lectures</a></li>
-          <li> <a href="mocks.php">Mock Tests</a></li>
+          <li> <a data-toggle="modal" href="#myModal" >Mock Tests</a></li>
         </ul>
       </div>
       <!--/.nav-collapse -->

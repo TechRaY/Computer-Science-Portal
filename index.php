@@ -225,8 +225,8 @@
         <p>Concrete And Complete Solution.</p>
       </div></a>
 
-      <a href="assets/html/mocks.php">             <!--Session se redirection karna hai ya toh login/register karwana hai -->
-      <div class="col-lg-3 callout"> <i class="fa fa-gears fa-3x"></i>
+      <a data-toggle="modal"  href="#myModal">             <!--Session se redirection karna hai ya toh login/register karwana hai -->
+        <div class="col-lg-3 callout"> <i class="fa fa-graduation-cap  fa-3x"></i>
         <h3>Mock Tests</h3>
         <p>Gear Up For The Test</p>
       </div>
@@ -240,7 +240,7 @@
       </a>
 
       <a href="assets/html/interviewexperience.php">
-      <div class="col-lg-3 callout"> <i class="fa fa-graduation-cap  fa-3x"></i>
+      <div class="col-lg-3 callout"> <i class="fa fa-gears fa-3x"></i>
         <h3>Interview Preparation</h3>
         <p>Prepare For the Big Games.</p>
       </div>
@@ -251,6 +251,11 @@
   </div>
 </div>
 <!-- container -->
+
+<?php
+require_once("assets/html/commonmodal.php");
+ ?>
+
 
 
 <!-- ==== ABOUT ==== -->
