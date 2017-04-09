@@ -52,7 +52,7 @@
 
       <div class="content-white">
 
-      <form id="loginform" method="POST" action="logincheck.php">
+      <form id="loginform" method="POST" action="../php/logincheck.php">
 
 
      <div class="form-group">
