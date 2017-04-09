@@ -216,24 +216,35 @@
       <h2 class="centered">Our Services</h2>
       <hr>
       <div class="col-lg-8 col-lg-offset-2">
-        <p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+        <p class="large" style="color:black">What All Things Are There For You ?</p>
       </div>
+
+      <a href="assets/html/topics.php">
       <div class="col-lg-3 callout"> <i class="fa fa-desktop fa-3x"></i>
         <h3>Conceptual Tutorials</h3>
         <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
-      </div>
+      </div></a>
+
+      <a href="assets/html/mocks.php">             <!--Session se redirection karna hai ya toh login/register karwana hai -->
       <div class="col-lg-3 callout"> <i class="fa fa-gears fa-3x"></i>
         <h3>Mock Tests</h3>
         <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
       </div>
+    </a>
+
+      <a href="assets/html/videolec.php">
       <div class="col-lg-3 callout"> <i class="fa fa fa-video-camera fa-3x"></i>
         <h3>Video Lectures</h3>
         <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
       </div>
+      </a>
+
+      <a href="assets/html/interviewexperience.php">
       <div class="col-lg-3 callout"> <i class="fa fa-graduation-cap  fa-3x"></i>
         <h3>Interview Preparation</h3>
         <p>Erat imperdiet dissentias ea usu, alia aliquid corrumpit ea qui. Eu vim oratio conclusionemque, vel at errem nominavi delicatissimi.</p>
       </div>
+    </a>
 
     </div>
     <!-- row -->
