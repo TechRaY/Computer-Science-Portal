@@ -9,8 +9,6 @@
 
 
 <link href="assets/css/style.css" rel="stylesheet">
-
-
 <link href="assets/css/main.css" rel="stylesheet">
 <link href="assets/css/font-awesome.min.css" rel="stylesheet">
 <link href="assets/css/animate-custom.css" rel="stylesheet">
@@ -38,7 +36,7 @@
           <li> <a href="#about" class="smoothScroll"> About</a></li>
           <li> <a href="#team" class="smoothScroll"> Team</a></li>
           <li> <a href="#contact" class="smoothScroll"> Contact</a></li>
-          <li> <a href=""> Register/Login</a></li>
+          <li> <a href="assets/html/register.php"> Register/Login</a></li>
         </ul>
       </div>
       <!--/.nav-collapse -->
