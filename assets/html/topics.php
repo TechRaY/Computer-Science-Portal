@@ -31,8 +31,9 @@
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="../../index.php" >Home</a></li>
-          <li><a href="" >Video Lectures</a></li>
-          <li> <a href="">Mock Tests</a></li>
+          <li><a href="../../topics.php" >Topics</a></li>
+          <li><a href="../../videolec.php" >Video Lectures</a></li>
+          <li> <a href="../../mocks.php">Mock Tests</a></li>
         </ul>
       </div>
       <!--/.nav-collapse -->
